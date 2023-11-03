@@ -4,12 +4,12 @@ I am a quantitative researcher and adjunct professor at the University of Regina
 
 In summary, I use data science tools to understand the patterns and processes related to species distribution, mostly using aquatic ecosystems in the Neotropics as study models. I also create open tools to merge different sources of information in a systematic way.
 
-Some of the stuff I am working on right now include:
-/ 🌱 Global variation in the structure and functioning of aquatic food webs
-/ 🌱 Tools to create phylogenies from open, large databases
-/ 🌱 Intra- and interspecific variation in prey-predator interactions and functional traits
-/ 🌱 Spatial and temporal variables structuring ecological communities
-/ 🌱 Global North and Global South patterns in scientific recognition and resources
+Some of the stuff I am working on right now include: <br>
+🌱 Global variation in the structure and functioning of aquatic food webs <br>
+🌱 Tools to create phylogenies from open, large databases <br>
+🌱 Intra- and interspecific variation in prey-predator interactions and functional traits <br>
+🌱 Spatial and temporal variables structuring ecological communities <br>
+🌱 Global North and Global South patterns in scientific recognition and resources <br>
 
 
 <!--
