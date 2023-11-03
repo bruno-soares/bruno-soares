@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi! I am Bruno Soares (he/him).
+
+I am a quantitative researcher and adjunct professor at the University of Regina. Check more about my lab here: [in construction].
+
+In summary, I use data science tools to understand the patterns and processes related to species distribution, mostly using aquatic ecosystems in the Neotropics as study models. I also create open tools to merge different sources of information in a systematic way.
+
+Some of the stuff I am working on right now include:
+- 
 
 <!--
 **bruno-soares/bruno-soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
